@@ -11,6 +11,7 @@ package com.cyanide.jsf.util;
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
 
 public class DataConnect {
 
@@ -20,7 +21,7 @@ public class DataConnect {
 			Connection con = DriverManager.getConnection(
 					"jdbc:mysql://localhost:3306/bootsfaces?", "root", "admin");
 			return con;
-		} catch (Exception ex) {
+		} catch (ClassNotFoundException | SQLException ex) {
 			System.out.println("Database.getConnection() Error -->"
 					+ ex.getMessage());
 			return null;

@@ -1,0 +1,8 @@
+com\cyanide\jsf\util\DataConnect.class
+com\cyanide\jsf\beans\Games.class
+com\cyanide\jsf\beans\Games_.class
+com\cyanide\jsf\beans\Login.class
+com\cyanide\jsf\beans\SessionBean.class
+com\cyanide\jsf\filter\AuthorizationFilter.class
+com\cyanide\jsf\dao\LoginDAO.class
+com\cyanide\jsf\util\SessionUtils.class

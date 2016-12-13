@@ -1,6 +1,7 @@
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\util\SessionUtils.java
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\beans\SessionBean.java
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\dao\LoginDAO.java
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\beans\Login.java
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\filter\AuthorizationFilter.java
-C:\Users\HP-PC\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\util\DataConnect.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\beans\Games.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\beans\Login.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\dao\LoginDAO.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\beans\SessionBean.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\util\SessionUtils.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\filter\AuthorizationFilter.java
+C:\Users\James\Documents\NetBeansProjects\BootsFaces_Maven\src\main\java\com\cyanide\jsf\util\DataConnect.java
